@@ -6,6 +6,6 @@ package bean;
  * @author 海章
  */
 public class Customer {
-    //made by a
+    //made by master
     private  String Sname;
 }
